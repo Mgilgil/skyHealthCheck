@@ -73,7 +73,8 @@ All positive and negative cases were documented, with results included in the **
 1. Clone this repository:  
    ```bash
    git clone https://github.com/Mgilgil/SkyHealthCheck.git
-2. Open terminal and enter cd django db
-3. python manage.py runserver
-4. Access the application locally at http://127.0.0.1:8000/
-5. Dummy login credentials provided in report.
+2. Unzip and extract all files from djangodb.zip
+3. Open terminal and enter cd djangodb
+4. python manage.py runserver
+5. Access the application locally at http://127.0.0.1:8000/
+6. Dummy login credentials provided in report.
